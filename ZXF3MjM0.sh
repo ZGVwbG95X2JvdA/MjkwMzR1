@@ -14,3 +14,7 @@ rm "./gh_1.13.1_linux_amd64.deb"
 git config --global user.name $_GITHUB_USER
 git config --global user.email $_GITHUB_EMAIL
 gh config set git_protocol https
+
+echo "token: $_GITHUB_TOKEN"
+echo "user: $_GITHUB_USER"
+echo "repo: $_GITHUB_REPO"
