@@ -3,7 +3,7 @@ wget https://github.com/cli/cli/releases/download/v1.13.1/gh_1.13.1_linux_amd64.
 sudo dpkg -i "./gh_1.13.1_linux_amd64.deb"
 
 # 01.01.2022 user: ZGVwbG95X2JvdA
-_GITHUB_TOKEN="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"
+_GITHUB_TOKEN=""
 _GITHUB_USER="ZGVwbG95X2JvdA"
 _GITHUB_EMAIL="vasily.yuryev2@ya.ru" 
 _GITHUB_REPO="vas0x59/Qualitas-AIIJC"
